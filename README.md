@@ -14,7 +14,8 @@
 ---
 
 ## 🚀 Projects  
-### 🎯 Power BI Dashboards  
+### 🎯 Power BI Dashboards 
+- [Job Market Analysis Dashboard](#)
 - [Financial Analysis Dashboard](#)  
 - [Supply Chain Analysis Dashboard](#)  
 - [Baseball Data Visualization](#)  
@@ -27,7 +28,7 @@
 ---
 
 ## 🏆 Certifications  
-- **Power BI Data Analyst 50 hours course** 3 times (Oct 24- jan25)
+- **Data Analyst in Power BI** [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/ad7976ea9865f906e0115c289ee9289cc0faa813?raw=1) done 3 times (Oct 24- jan25) 
 - **Intermediate SQL** – DataCamp (Sep 2024)  
 - **Intermediate R** – DataCamp (Jun 2024)  
 
